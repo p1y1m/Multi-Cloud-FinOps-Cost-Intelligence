@@ -1,4 +1,4 @@
-Author: Pedro Yáñez Meléndez
+Author: Pedro Yanez Melendez
 
 # FinOps Cost Intelligence in Google Colab (Multi-Cloud + SaaS)
 
